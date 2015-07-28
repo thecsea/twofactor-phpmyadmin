@@ -3,6 +3,12 @@ Build status:  [![Latest Stable Version](https://poser.pugx.org/thecsea/twofacto
 
 The most powerful and the simplest library to add two factor authentication by google authenticator in phmyadmin
 
-This project install automatically a phpmyadmin with twofactor
+This project install automatically a phpmyadmin with twofactor via composer (download composer here https://getcomposer.org/):
+
+`php composer.phar  require thecsea/twofactor-phpmyadmin `
  
-Two factor is based on [twofactor-dir library](https://github.com/thecsea/twofactor-dir) take a look to it to see how to use twofactor
+*twofactor-phpmyadmin* is based on [twofactor-dir library](https://github.com/thecsea/twofactor-dir), take a look to it to see how to use twofactor
+
+Obviously when you perform an composer update the twofactor is reinstalled, so you could lose your secret.
+
+Update: `php composer.phar update`
