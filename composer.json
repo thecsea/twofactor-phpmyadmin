@@ -2,9 +2,9 @@
   "name": "thecsea/twofactor-phpmyadmin",
   "type": "project",
   "keywords": ["two","factor", "phpmyadmin", "authentication", "google"],
-  "description": "The most powerful and the simplest library to add two factor authentication by google authenticator in phmyadmin",
+  "description": "The most powerful and the simplest library to add two factor authentication by google authenticator to phmyadmin",
   "homepage": "http://www.thecsea.it/progetti/",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license": "GPL-2.0",
   "authors": [
     {
