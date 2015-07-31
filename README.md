@@ -5,7 +5,15 @@ The most powerful and the simplest library to add two factor authentication by g
 
 This project install automatically a phpmyadmin with twofactor via composer (download composer here https://getcomposer.org/):
 
-`php composer.phar  require thecsea/twofactor-phpmyadmin `
+`php composer.phar require thecsea/twofactor-phpmyadmin `
+
+When this readme is written, *phpmyadmin* package is not recognized as *stable*, so you cannot use require way but you have to clone repository
+
+`git clone https://github.com/thecsea/twofactor-phpmyadmin.git`
+
+and install it with composer
+
+`php composer.phar install`
  
 *twofactor-phpmyadmin* is based on [twofactor-dir library](https://github.com/thecsea/twofactor-dir), take a look to it to see how to use twofactor
 
