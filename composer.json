@@ -19,10 +19,13 @@
     "phpmyadmin/phpmyadmin": "dev-STABLE"
   },
   "scripts": {
-    "post-package-install": [
+    "post-root-package-install": [
       "php install.php"
     ],
     "post-package-update": [
+      "php install.php"
+    ],
+    "post-update-cmd": [
       "php install.php"
     ]
   }
