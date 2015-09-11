@@ -20,3 +20,5 @@ and install it with composer
 Obviously when you perform an composer update the twofactor is reinstalled, so you could lose your secret.
 
 Update: `php composer.phar update`
+
+# By [thecsea.it](http://www.thecsea.it)
