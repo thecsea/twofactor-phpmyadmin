@@ -21,4 +21,8 @@ Obviously when you perform an composer update the twofactor is reinstalled, so y
 
 Update: `php composer.phar update`
 
+# Credits
+* [Sonata GoogleAuthenticator](https://github.com/sonata-project/GoogleAuthenticator): php library to use twofactor in the same way of google authenticator
+* [twofactor dir](https://github.com/thecsea/twofactor-dir): php library to protect a dir via two factor
+
 # By [thecsea.it](http://www.thecsea.it)
