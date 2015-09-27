@@ -24,5 +24,6 @@ Update: `php composer.phar update`
 # Credits
 * [Sonata GoogleAuthenticator](https://github.com/sonata-project/GoogleAuthenticator): php library to use twofactor in the same way of google authenticator
 * [twofactor dir](https://github.com/thecsea/twofactor-dir): php library to protect a dir via two factor
+* [phpmyadmin](https://github.com/phpmyadmin/phpmyadmin): php library to manage a mysql server
 
 # By [thecsea.it](http://www.thecsea.it)
