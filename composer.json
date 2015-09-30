@@ -16,7 +16,7 @@
   "require": {
     "php": ">=5.3.0",
     "thecsea/twofactor-dir": "1.0.*",
-    "phpmyadmin/phpmyadmin": "dev-STABLE"
+    "phpmyadmin/phpmyadmin": "dev-STABLE@dev"
   },
   "scripts": {
     "post-root-package-install": [
